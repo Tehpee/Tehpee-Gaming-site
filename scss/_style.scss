@@ -1,0 +1,116 @@
+/*===================
+	General
+  =================*/
+li {
+	list-style: none;	
+}
+
+a {
+	text-decoration: none;	
+}
+
+body {
+	font-family: 'Droid Serif', serif;	
+	background-color: #444;
+}
+
+/*===================
+	Main Wrapper
+  =================*/
+  
+  .main-wrapper {
+		width: 100%; 
+		margin: 0 auto;
+  }
+  
+  /*===================
+	GALLERY
+  =================*/
+ 
+ .gallery p {
+	padding: 0 1%;
+ }
+  .gallery img {
+	display: block;
+	max-width: 98%; 
+	border: 1px solid tomato; 
+	padding: 2px;
+	margin-top: 5px;
+  }
+  
+  .gallery ul {
+	border-bottom: 1px solid #111;  
+	margin: 0;
+	padding: 0;
+  }
+
+
+/*===================
+	HEADER-TOP
+  =================*/
+
+
+/*===================
+	H-Title
+  =================*/
+.title {
+	color: tomato;
+	font-size: 5em;
+	font-weight: bold;
+	text-align: center;	
+	margin-top: 10px;
+	margin-bottom: 0; 
+	padding-bottom: 10px;
+	border-bottom: 1px solid #111;
+}
+
+
+/*===================
+	Navigations
+  =================*/
+
+.navigation {
+	text-align: center;	
+	margin-top: 0;
+	padding: 5px 0;
+}
+
+.navigation a {
+	display: block;
+	background-color: tomato;	
+	margin: 5px 0;
+	font-size: 1.5em;
+}
+
+/*===================
+	PSEUDO 
+  =================*/
+  
+
+
+/*===================
+	FOOTER
+  =================*/
+
+.social-media {
+	width: 30px;
+	height: 30px;
+	margin: 0 5px;	
+	border-radius: 10%;
+}
+
+footer {
+	text-align: center;	
+	
+}
+
+/*===================
+	Google font
+  =================*/
+
+
+/*===================
+	Media Query
+  =================*/
+
+
